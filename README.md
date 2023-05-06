@@ -2,4 +2,8 @@
 
 ## Descripción
 
-Repositorio creado para cursar la asignatura Sintaxis y Semántica de los Lenguajes.
+Repositorio para Trabajos Prácticos personales.
+
+* Nombre: **Jiun Ming**
+* Apellido: **Hsu**
+* Curso: **K2032**
